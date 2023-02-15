@@ -1,0 +1,32 @@
+@font-face {
+	font-family: 'FuturaLight';
+	src: url(../../assets/fonts/FuturaLight.woff) format('woff');
+	font-weight: 300;
+	font-style: normal;
+}
+
+.font-light {
+	font-family: 'FuturaLight';
+}
+
+@font-face {
+	font-family: 'FuturaMedium';
+	src: url(../../assets/fonts/FuturaMedium.woff) format('woff');
+	font-weight: 400;
+	font-style: normal;
+}
+
+.font-medium {
+	font-family: 'FuturaMedium';
+}
+
+@font-face {
+	font-family: 'FuturaBold';
+	src: url(../../assets/fonts/FuturaBold.woff) format('woff');
+	font-weight: 700;
+	font-style: normal;
+}
+
+.font-bold {
+	font-family: 'FuturaBold';
+}
