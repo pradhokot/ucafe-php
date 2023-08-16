@@ -4,4 +4,5 @@
 - css
 - php
 - jquery
-- bootstrap
+- bootstrap 5.2
+- mySql
